@@ -1,2 +1,2 @@
 # mobile
-js in project
+tool in project
